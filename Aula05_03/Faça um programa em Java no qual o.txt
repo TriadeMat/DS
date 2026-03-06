@@ -1,0 +1,11 @@
+Faça um programa em Java no qual o usuário entra com um valor chamado média nas seguintes condições , se média maior que 7,5 aprovado, se média maior que 6 e menor que 7,5 fazer um trabalho ,se média maior que 5 e menor que 6 recuperação ,se média maior que 4 e menor que 5 reprovado ,se média menor que 4 rebaixado para o ano anterior, se média menor que 0 reiniciar tudo.
+
+
+
+Faça um programa em java no qual entre 3 valores esses valores formaram um triangulo diferencie, se equilátero, se isósceles, se escaleno, caso contrario, não forme o triangulo. Caso o valor zero não forme o triangulo
+
+ eq 3 lados iguais 
+
+isósceles 2 lado e um diferente.
+
+Escaleno todos os lados diferentes.
