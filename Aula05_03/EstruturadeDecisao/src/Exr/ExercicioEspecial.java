@@ -1,4 +1,4 @@
-package Exercicios;
+
 
 public class ExercicioEspecial {
     public static void main(String[] args) {

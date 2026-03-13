@@ -1,4 +1,4 @@
-package Exercicios;
+
 
 public class EstruturaSimples {
     public static void main(String[] args) {
