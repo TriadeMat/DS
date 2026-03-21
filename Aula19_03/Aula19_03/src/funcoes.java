@@ -1,9 +1,7 @@
 public class funcoes {
-    int a = 0;
+    int a = 10;
     int b = 10;
-    int lado = 10;
-    int base = 10;
-    int altura = 10;
+
 
     public void somar(){
         int res = a + b;
@@ -22,11 +20,11 @@ public class funcoes {
         System.out.println("O resultado da divisão: " + res);
     }
 public void areaTriangulo(){
-        int res = (base * altura)/2;
+        int res = (a * b)/2;
         System.out.println("O resultado da área do Triângulo: " + res);
 }
 public void areaQuadrado(){
-        int res =  lado * lado * lado * lado;
+        int res =  a * a * a * a;
         System.out.println("O resultado da área do Quandrado: " + res);
 }
 }
