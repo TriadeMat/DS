@@ -17,7 +17,7 @@ public class exr3 {
         System.out.print("Digite o segundo número: ");
         num2 = scan.nextDouble();
 
-        System.out.println("\nEscolha a operação:");
+        System.out.println("Escolha a operação:");
         System.out.println("1 - Adição");
         System.out.println("2 - Subtração");
         System.out.println("3 - Multiplicação");

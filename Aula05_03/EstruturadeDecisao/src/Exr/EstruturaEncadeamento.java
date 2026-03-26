@@ -12,7 +12,7 @@ public static void main(String[] args) {
             System.out.println("Menor de idade! ");
             
         }else{
-            System.out.println("Digite ua idade válido! ");
+            System.out.println("Digite uma idade válido! ");
             
         }
 

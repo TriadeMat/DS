@@ -29,5 +29,5 @@ public class executar {
             System.out.println("Erro!!");
         }
 
-    }}
+    scan.close();}}
 
